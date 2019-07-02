@@ -1,0 +1,5 @@
+*gz
+swift-install/
+
+.build/
+.ipynb_checkpoints/
